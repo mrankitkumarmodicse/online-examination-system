@@ -125,35 +125,26 @@ $$N = C + W + S = 5$$
 ## Project Structure
 
 ```
-E:\Online Examination System\
-├── online_exam_system.py       # Core application & examination logic
-├── main.py                     # Entry point
+online-examination-system/
+├── online_exam_system.py       # Core application (Single .py file)
 ├── README.md                   # System documentation
 ├── summary.md                  # Verification summary with real test screenshots
 ├── screenshots/                # Real terminal screenshots directory
-│   ├── test_case_1_terminal.png
-│   ├── test_case_2_terminal.png
-│   ├── test_case_3_terminal.png
-│   └── test_case_4_terminal.png
-├── test_case_1_terminal.png
-├── test_case_2_terminal.png
-├── test_case_3_terminal.png
-└── test_case_4_terminal.png
+│   ├── test_case_1_normal.png
+│   ├── test_case_2_boundary.png
+│   ├── test_case_3_invalid.png
+│   └── test_case_4_skipped.png
+└── .gitignore                  # Git ignore rules
 ```
 
 ---
 
 ## Execution Guide
 
-Run the examination from your terminal:
+Run the examination directly from your terminal:
 
 ```bash
 cd "E:\Online Examination System"
-
-# Option 1: Via main.py
-python main.py
-
-# Option 2: Via core script
 python online_exam_system.py
 ```
 

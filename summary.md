@@ -43,7 +43,7 @@ Score: 8/10 | Percentage: 80.00% | Result: Pass
 ```
 
 ### Laptop Terminal Screenshot
-![Test Case 1 Terminal Screenshot](test_case_1_terminal.png)
+![Test Case 1 Terminal Screenshot](screenshots/test_case_1_normal.png)
 
 ### Real Terminal Transcript
 ```text
@@ -126,7 +126,7 @@ Score: 4/10 | Percentage: 40.00% | Result: Pass
 ```
 
 ### Laptop Terminal Screenshot
-![Test Case 2 Terminal Screenshot](test_case_2_terminal.png)
+![Test Case 2 Terminal Screenshot](screenshots/test_case_2_boundary.png)
 
 ### Real Terminal Transcript
 ```text
@@ -204,7 +204,7 @@ Answer recorded for Q1: b
 ```
 
 ### Laptop Terminal Screenshot
-![Test Case 3 Terminal Screenshot](test_case_3_terminal.png)
+![Test Case 3 Terminal Screenshot](screenshots/test_case_3_invalid.png)
 
 ### Real Terminal Transcript
 ```text
@@ -289,7 +289,7 @@ Score: 6/10 | Percentage: 60.00% | Result: Pass
 ```
 
 ### Laptop Terminal Screenshot
-![Test Case 4 Terminal Screenshot](test_case_4_terminal.png)
+![Test Case 4 Terminal Screenshot](screenshots/test_case_4_skipped.png)
 
 ### Real Terminal Transcript
 ```text
